@@ -1,0 +1,77 @@
+.logo{
+  width: 90px;
+  height: 90px;
+  margin-top: 45px;
+  margin-bottom: 0px;
+}
+
+.header{
+  margin-top: 50px;
+  margin-left: 20px;
+}
+
+.main-head{
+  width: 90px;
+  height: 100%;
+  width: 166px;
+  background: #fff;
+  height: 100%;
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 10;
+}
+
+.chefHat{
+  width:40px;
+  height:40px;
+}
+
+.knifeFork{
+  width:40px;
+  height:40px;
+}
+
+.Branches{
+  width:40px;
+  height:40px;
+}
+
+.Careers{
+  width:40px;
+  height:40px;
+}
+
+.contact{
+  width:40px;
+  height:40px;
+}
+
+div.connect{
+  display: inline-block;
+}
+
+.facebook{
+  width: 20px;
+  height: 20px;
+  display: inline;
+}
+
+.share{
+  width: 20px;
+  height: 20px;
+  display: inline;
+}
+
+
+div.header{
+  display: inline-block;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+a img:hover{ position: relative; 
+  top: -5px;} 
+
